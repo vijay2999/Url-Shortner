@@ -1,0 +1,27 @@
+{
+  "name": "project-urlshortnergroup13",
+  "version": "1.0.0",
+  "description": "Scalable URL Shortner Project Requirement\r Phase I\r Overview\r URL shortening is used to create shorter aliases for long URLs. We call these shortened aliases “short links.” Users are redirected to the original URL when they hit these short links. Short links save a lot of space when displayed, printed, messaged, or tweeted. Additionally, users are less likely to mistype shorter URLs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iqra3786/project-urlShortnerGroup13.git"
+  },
+  "author": "vijay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iqra3786/project-urlShortnerGroup13/issues"
+  },
+  "homepage": "https://github.com/iqra3786/project-urlShortnerGroup13#readme",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0",
+    "redis": "^4.5.1",
+    "shortid": "^2.2.16",
+    "valid-url": "^1.0.9"
+  }
+}
